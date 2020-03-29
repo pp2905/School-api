@@ -1,1 +1,1 @@
-School Api with Postgres sql an JWT authorization.
+School Api with Postgres database an JWT authorization.
